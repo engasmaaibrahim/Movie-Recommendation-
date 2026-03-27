@@ -56,8 +56,8 @@ The recommendation system follows these steps:
 
 ```bash
 
-git clone https://github.com/engasmaaibrahim/Movie-Recommendation-.git
-cd Movie-Recommendation-
+git clone https://github.com/engasmaaibrahim/Movie-Recommendation-System.git
+cd Movie-Recommendation-System
 
 ```
 
